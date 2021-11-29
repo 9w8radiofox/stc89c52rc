@@ -1,2 +1,2 @@
 # stc89c52rc
-My C programming journey on STC89C52RC learning
+My C programming journey using STC89C52RC
